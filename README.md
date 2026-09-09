@@ -4,9 +4,9 @@
 
 ## 🧑‍🎓 About Me
 
-- 🏫 Student at **Ulink College of Shanghai**, currently studying IGCSE.
-- 🌐 I build websites – I use **CodeX** (and other tools) to turn ideas into reality.
-- 📸 Photography enthusiast – *"Light speaks. We listen."* (that's my motto!)
+- 🏫 Student studying **IGCSE**.
+- 🌐 I build [websites](https://limooo.cn) – I use **CodeX** to turn ideas into reality.
+- 📸 Photographer
 - 🤝 Open to collaboration: web projects, photography, or just interesting experiments.
 
 ---
