@@ -5,7 +5,7 @@
 ## 🧑‍🎓 About Me
 
 - 🏫 Student studying **IGCSE**.
-- 🌐 I build [websites](https://limooo.cn) – I use **CodeX** to turn ideas into reality.
+- 🌐 I build [websites](https://limooo.cn) – I use **Codex** to turn ideas into reality.
 - 📸 Photographer
 - 🤝 Open to collaboration: web projects, photography, or just interesting experiments.
 
